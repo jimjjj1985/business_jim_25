@@ -10,8 +10,7 @@
         android:label="Business JIM 25"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
-        <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyDmTG2tiRXcRE4XDzoyywN6UCQuE_rxX-A"/>
+
         <activity
             android:name=".MainActivity"
             android:exported="true"
